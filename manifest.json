@@ -1,0 +1,25 @@
+{
+  "levels": [
+    {
+      "levelName": "Level 1 - Easy",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/level1.jpg",
+      "pieceCount": 2,
+      "gridColumns": 2,
+      "gridRows": 1
+    },
+    {
+      "levelName": "Level 2 - Medium",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/level2.jpg",
+      "pieceCount": 4,
+      "gridColumns": 2,
+      "gridRows": 2
+    },
+    {
+      "levelName": "Level 3 - Hard",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/level3.jpg",
+      "pieceCount": 6,
+      "gridColumns": 3,
+      "gridRows": 2
+    }
+  ]
+}
