@@ -20,10 +20,26 @@
     {
       "levelNumber": 3,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level3.jpg",
-      "gridColumns": 3,
+      "gridColumns": 2,
       "gridRows": 3,
       "levelName": "Level 3",
       "pieceCount": 6
+    },
+     {
+      "levelNumber": 4,
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level4.jpg",
+      "gridColumns": 3,
+      "gridRows": 3,
+      "levelName": "Level 3",
+      "pieceCount": 9
+    },
+     {
+      "levelNumber": 5,
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level4.jpg",
+      "gridColumns": 3,
+      "gridRows": 4,
+      "levelName": "Level 3",
+      "pieceCount": 12
     }
   ]
 }
