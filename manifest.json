@@ -20,7 +20,7 @@
     {
       "levelNumber": 3,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level3.jpg",
-      "gridColumns": 2,
+      "gridColumns": 3,
       "gridRows": 3,
       "levelName": "Level 3",
       "pieceCount": 6
