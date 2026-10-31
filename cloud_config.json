@@ -1,0 +1,11 @@
+{
+  "activeProvider": "cloudinary",
+  "cloudinary": {
+    "cloudName": "YOUR_CLOUDINARY_CLOUD_NAME",
+    "uploadPreset": "YOUR_UNSIGNED_UPLOAD_PRESET"
+  },
+  "cloudflare": {
+    "publicBucketUrl": "https://pub-xxxxx.r2.dev/",
+    "workerUploadUrl": "https://your-worker.workers.dev/upload"
+  }
+}
