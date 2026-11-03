@@ -45,49 +45,49 @@
       "levelNumber": 6,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level6.jpg",
       "gridColumns": 3,
-      "gridRows": 4,
+      "gridRows": 5,
       "levelName": "Level 6",
-      "pieceCount": 12
+      "pieceCount": 15
     },
      {
       "levelNumber": 7,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level7.jpg",
       "gridColumns": 3,
-      "gridRows": 4,
-      "levelName": "Level 6",
-      "pieceCount": 12
+      "gridRows": 5,
+      "levelName": "Level 7",
+      "pieceCount": 15
     },
      {
       "levelNumber": 8,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level8.jpg",
       "gridColumns": 3,
-      "gridRows": 4,
-      "levelName": "Level 6",
-      "pieceCount": 12
+      "gridRows": 5,
+      "levelName": "Level 8",
+      "pieceCount": 15
     },
    {
       "levelNumber": 9,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level9.jpg",
       "gridColumns": 3,
-      "gridRows": 4,
-      "levelName": "Level 6",
-      "pieceCount": 12
+      "gridRows": 5,
+      "levelName": "Level 9",
+      "pieceCount": 15
     },
     {
       "levelNumber": 10,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level10.jpg",
       "gridColumns": 3,
-      "gridRows": 4,
-      "levelName": "Level 6",
-      "pieceCount": 12
+      "gridRows": 5,
+      "levelName": "Level 10",
+      "pieceCount": 15
     },
     {
       "levelNumber": 11,
       "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level11.jpg",
       "gridColumns": 3,
-      "gridRows": 4,
-      "levelName": "Level 6",
-      "pieceCount": 12
+      "gridRows": 5,
+      "levelName": "Level 11",
+      "pieceCount": 15
     }
   ]
 }
