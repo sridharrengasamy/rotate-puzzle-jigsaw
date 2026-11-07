@@ -288,7 +288,16 @@
       "gridRows": 5,
       "levelName": "Level 36",
       "pieceCount": 15
+    },
+    {
+      "levelNumber": 37,
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (37).jpg",
+      "gridColumns": 3,
+      "gridRows": 5,
+      "levelName": "Level 37",
+      "pieceCount": 15
     }
   ]
 }
+
 
