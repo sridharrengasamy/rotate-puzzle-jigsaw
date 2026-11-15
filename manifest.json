@@ -3,7 +3,7 @@
   "levels": [
     {
       "levelNumber": 1,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (1).jpg",
       "gridColumns": 1,
       "gridRows": 2,
       "levelName": "Level 1",
@@ -11,7 +11,7 @@
     },
     {
       "levelNumber": 2,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (2).jpg",
       "gridColumns": 2,
       "gridRows": 2,
       "levelName": "Level 2",
@@ -19,7 +19,7 @@
     },
     {
       "levelNumber": 3,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level3.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (3).jpg",
       "gridColumns": 2,
       "gridRows": 3,
       "levelName": "Level 3",
@@ -27,7 +27,7 @@
     },
      {
       "levelNumber": 4,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (4).jpg",
       "gridColumns": 3,
       "gridRows": 3,
       "levelName": "Level 4",
@@ -35,7 +35,7 @@
     },
      {
       "levelNumber": 5,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level5.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (5).jpg",
       "gridColumns": 3,
       "gridRows": 4,
       "levelName": "Level 5",
@@ -43,7 +43,7 @@
     },
     {
       "levelNumber": 6,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level6.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (6).jpg",
       "gridColumns": 3,
       "gridRows": 5,
       "levelName": "Level 6",
@@ -51,7 +51,7 @@
     },
      {
       "levelNumber": 7,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level7.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (7).jpg",
       "gridColumns": 3,
       "gridRows": 5,
       "levelName": "Level 7",
@@ -59,7 +59,7 @@
     },
      {
       "levelNumber": 8,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level8.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (8).jpg",
       "gridColumns": 3,
       "gridRows": 5,
       "levelName": "Level 8",
@@ -67,7 +67,7 @@
     },
    {
       "levelNumber": 9,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level9.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (9).jpg",
       "gridColumns": 3,
       "gridRows": 5,
       "levelName": "Level 9",
@@ -75,7 +75,7 @@
     },
     {
       "levelNumber": 10,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level10.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (10).jpg",
       "gridColumns": 3,
       "gridRows": 5,
       "levelName": "Level 10",
@@ -83,7 +83,7 @@
     },
     {
       "levelNumber": 11,
-      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level11.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sridharrengasamy/rotate-puzzle-jigsaw/main/level (11).jpg",
       "gridColumns": 3,
       "gridRows": 5,
       "levelName": "Level 11",
